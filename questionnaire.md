@@ -1,19 +1,28 @@
 # Questionnaire
 ## Interroger l'eco-conception d'une équipe projet développant des services numériques ( matériels, logiciels, données )
 
-### --- a trier et classifier
+
 ### Conception (Design, Arbitrage, Sobriété)
+
+#### question 1
+À quel besoin réel mon projet répond-il ? Comment en est-on certain ?
+
+#### question 2
+Pour quel(s) acteur(s) et en quoi mon projet est-il utile ?
+
+#### question 3
+Les fonctionnalités sont-elles limitées aux besoins essentiels ? Comment avez vous mis en place cette sélection ? Quels sont les besoins exprimés qui n'ont pas été retenus ( Quel procédure lors de la mise en oeuvre de la black list)
+
+#### question 4
+Pouvez vous décrire ce qu'apporte spécifiquement le numérique au projet ? La solution numérique est-elle est elle indispensable ? Si vous numérisez un service physique : qu'est ce qui n'est pas possible de faire que ferait le service une fois numérisé ? 
+
 ### Gouvernance (Pilotage, Team, Methodologie)
 ### Enjeux Sociétaux à la conception et à l'usage
 ### Enjeux Environnementaux à la conception et à l'usage
 
-À quel besoin réel mon projet répond-il ? Comment en est-on certain ?
-  
-Pour quel(s) acteur(s) et en quoi mon projet est-il utile ?
 
-Les fonctionnalités sont-elles limitées aux besoins essentiels ? Comment avez vous mis en place cette sélection ? Quels sont les besoins exprimés qui n'ont pas été retenus ( Quel procédure lors de la mise en oeuvre de la black list)
 
-Pouvez vous décrire ce qu'apporte spécifiquement le numérique au projet ? La solution numérique est-elle est elle indispensable ? Si vous numérisez un service physique : qu'est ce qui n'est pas possible de faire que ferait le service une fois numérisé ? 
+
 
 Comment vous assurer vous que le service est pertinent et maintenable à long terme ?
 
