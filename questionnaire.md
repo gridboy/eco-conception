@@ -102,11 +102,13 @@ Le service ou projet risque-t-il de créer une obsolescence matérielle et/ou lo
 
 #### question 31
 Comment le projet materiel ou logiciel permet'il de favoriser la durée de vie des équipements et des services ?    
+
+#### question 32
 Au sein de l'organisation et du projet avez vous identifié les risques de réallocation des ressources libérées ( lors des optimsiations ) ? Comment vous prémunissez vous de l'effet rebond associé ? 
 Quels sont les principes d'écoconception que vous appliquez à votre projet ?  Comment les déployez vous ? 
 
-#### question 32
-La quantité des données est elle encadrée ? en variété ? en qualité ? en quantité ? en vélocité ?
-
 #### question 33
+La quantité des données est-elle encadrée ? en variété ? en qualité ? en quantité ? en vélocité ?
+
+#### question 34
 Prévoyez vous de mettre en place des quotas concernant les volumes échangés  par utilisateur / applications / service ?
