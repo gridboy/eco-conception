@@ -1,4 +1,11 @@
-Questionnaire : Interroger l'eco-conception d'une équipe projet développant des services numériques ( matériels, logiciels, données )
+# Questionnaire
+## Interroger l'eco-conception d'une équipe projet développant des services numériques ( matériels, logiciels, données )
+
+### --- a trier et classifier
+### Conception (Design, Arbitrage, Sobriété)
+### Gouvernance (Pilotage, Team, Methodologie)
+### Enjeux Sociétaux à la conception et à l'usage
+### Enjeux Environnementaux à la conception et à l'usage
 
 À quel besoin réel mon projet répond-il ? Comment en est-on certain ?
   
